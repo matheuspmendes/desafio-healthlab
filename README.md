@@ -22,5 +22,5 @@ laboratório, agregando ainda mais na solução entregue.
 É seu papel como consultor ou analista de dados definir quais tratamentos devem ser realizados para atender a nossa cliente.
 
 Para fins de visualização, será anexado uma imagem do Dashboard abaixo:
-![Prévia Dashboard](./painel2.png)
-![Prévia Dashboard](./painel2.png)
+![Painel-darkmode](./painel-dark-mode.png)
+![Painel-lightmode](./painel-light-mode.png)
